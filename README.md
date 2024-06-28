@@ -8,7 +8,7 @@
 - 💼 Currently working at Intellect Design Arena.
 - 🌱 I’m currently learning advanced algorithms and system design.
 - 💬 Ask me about: Java, Python, Ethical Hacking , DBMS , MySQL ,Software Development, algorithms, System Design, Open Source Contributions , Hackathons etc.
-- 📫 How to reach me: [(mailto:pandeyshruti2010@gmail.com)]
+- 📫 How to reach me: [pandeyshruti2010@gmail.com]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new technologies, reading books, or traveling.
 
