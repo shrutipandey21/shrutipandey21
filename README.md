@@ -14,7 +14,7 @@
 - 📫 How to reach me: pandeyshruti2010@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new technologies, reading books, or traveling.
-![Developer Girl Coding](https://cdn.dribbble.com/users/2400293/screenshots/16093268/media/2ff9f10b8b1f1d7c6e6f0db173a20668.gif)
+
 ---
 
 ### Languages and Tools
