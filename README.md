@@ -1,11 +1,14 @@
+### Profile Views:
+
+![Profile Views](https://komarev.com/ghpvc/?username=shrutipandey21&style=flat-square)
 ## Hi 👋, I'm Shruti Pandey
 
 ### A passionate Software Developer from India
 
 ---
 
-- 🎓 I have done my B.Tech in Computer Science and Engineering from Institute of Technical Education and Research, Bhubaneswar.
-- 💼 Currently working at Intellect Design Arena.
+- 🎓 I have done my B.Tech in Computer Science and Engineering from Institute of Technical Education and Research, Bhubaneswar [2020-2024].
+- 💼 Currently working as SOFTWARE DEVELOPER (FTE) at Intellect Design Arena.
 - 🌱 I’m currently learning advanced algorithms and system design.
 - 💬 Ask me about: Java, Python, Ethical Hacking , DBMS , MySQL ,Software Development, algorithms, System Design, Open Source Contributions , Hackathons etc.
 - 📫 How to reach me: pandeyshruti2010@gmail.com
