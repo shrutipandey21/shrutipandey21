@@ -7,7 +7,7 @@
 - 🎓 I have done my B.Tech in Computer Science and Engineering from Institute of Technical Education and Research, Bhubaneswar.
 - 💼 Currently working at Intellect Design Arena.
 - 🌱 I’m currently learning advanced algorithms and system design.
-- 💬 Ask me about: Java, Python, software development, algorithms, system design, etc.
+- 💬 Ask me about: Java, Python, Ethical Hacking , DBMS , MySQL ,Software Development, algorithms, System Design, Open Source Contributions , Hackathons etc.
 - 📫 How to reach me: [shruti.pandey@example.com](mailto:pandeyshruti2010@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new technologies, reading books, or traveling.
