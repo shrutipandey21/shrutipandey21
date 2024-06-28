@@ -1,6 +1,6 @@
 ### Profile Views:
 
-![Profile Views](https://iconscout.com/lottie-animations/female-web-developer?username=shrutipandey21&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=shrutipandey21&style=flat-square)
 ## Hi 👋, I'm Shruti Pandey
 
 ### A passionate Software Developer from India
@@ -14,7 +14,7 @@
 - 📫 How to reach me: pandeyshruti2010@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new technologies, reading books, or traveling.
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer Girl Coding" />
+![Developer Girl Coding](https://iconscout.com/lottie-animations/female-web-developer)
 ---
 
 ### Languages and Tools
