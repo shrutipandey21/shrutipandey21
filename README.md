@@ -1,6 +1,6 @@
 ### Profile Views:
 
-![Profile Views](https://komarev.com/ghpvc/?username=shrutipandey21&style=flat-square)
+![Profile Views](https://iconscout.com/lottie-animations/female-web-developer?username=shrutipandey21&style=flat-square)
 ## Hi 👋, I'm Shruti Pandey
 
 ### A passionate Software Developer from India
